@@ -3,7 +3,7 @@ public class Hello {
 		System.out.println("Hello");
 		System.out.println("Hi");
 		
-		int x = 10;
+		int x = 100;
 
 	}
 }
